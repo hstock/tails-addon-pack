@@ -1,0 +1,16 @@
+
+# This file is managed via Ansible.
+# Do not try to change it. Resistance is futile!
+#
+# Contact it@indurad.com for help.
+#
+
+deb http://ftp.de.debian.org/debian/ buster main contrib non-free
+deb-src http://ftp.de.debian.org/debian/ buster main contrib non-free
+
+deb http://ftp.de.debian.org/debian/ buster-updates main contrib non-free
+deb-src http://ftp.de.debian.org/debian/ buster-updates main contrib non-free
+
+deb http://security.debian.org/ buster/updates main contrib non-free
+deb-src http://security.debian.org/ buster/updates main contrib non-free
+
